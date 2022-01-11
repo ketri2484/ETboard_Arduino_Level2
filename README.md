@@ -1,4 +1,4 @@
-# 이티보드 아두이노 파헤치기 Levele(중급) 콘텐츠
+# 이티보드 아두이노 파헤치기 Level(중급) 콘텐츠
 
 * ET-Board Arduino Level2 Contents
 </br></br>
@@ -10,7 +10,7 @@
 
 * [이티보드(ET-Board) 아두이노 설정 매뉴얼(pdf)](http://oapass.com/pub/ketri/2021/arduino/F211126_ETboard_Arduino_Manual.pdf)
 * [이티보드(ET-Board) 핀아웃(pdf))](http://oapass.com/pub/ketri/2021/et/ET-Board_Pinout_v1.0.pdf)
-* [학습자료(zip)](ht<span>tp://</span>oapass.com/pub/ketri/2021/arduino/arduino_for_etboard_level2.1.zip)
+* [학습자료(zip)] ht<span>tp://</span>oapass.com/pub/ketri/2021/arduino/arduino_for_etboard_level2.1.zip
 * [동영상(youtube)](https://www.youtube.com/watch?v=IhXoGCDPbXQ&list=PL08G-YUOt0DR1iW0CNdplM4wF0sSVwXem&index=1)
 </br></br>
 
