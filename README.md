@@ -1,4 +1,4 @@
-# 이티보드 아두이노 파헤치기 Levle2(중급) 콘텐츠
+# 이티보드 아두이노 파헤치기 Levele(중급) 콘텐츠
 
 * ET-Board Arduino Level2 Contents
 </br></br>
