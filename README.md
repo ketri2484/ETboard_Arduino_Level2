@@ -14,10 +14,11 @@
 * [학습 동영상(youtube)](https://www.youtube.com/watch?v=IhXoGCDPbXQ&list=PL08G-YUOt0DR1iW0CNdplM4wF0sSVwXem&index=1)
 </br></br>
 
-
+<!--
 ### 학습 목차(Contents)
 
 * [01. LED 한개 켜고 끄기](http://oapass.com/pub/ketri/2021/arduino/F211126_ETboard_Arduino_Manual.pdf) [설명](..) 동영상[클릭](https://youtu.be/IhXoGCDPbXQ)
+-->
 
 
 ### 이티보드(ET-Board) 채널 안내
