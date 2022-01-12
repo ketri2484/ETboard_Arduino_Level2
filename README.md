@@ -15,6 +15,11 @@
 </br></br>
 
 
+### 학습 목차(Contents)
+
+* [01. LED 한개 켜고 끄기](http://oapass.com/pub/ketri/2021/arduino/F211126_ETboard_Arduino_Manual.pdf) [설명](..) [동영상](youtube)
+
+
 ### 이티보드(ET-Board) 채널 안내
 
 * [이티보드 스토어팜 (https://smartstore.naver.com/ketri)](https://smartstore.naver.com/ketri)
