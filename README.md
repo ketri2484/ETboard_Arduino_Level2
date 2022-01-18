@@ -8,7 +8,7 @@
 
 아래 자료는 [이티보드(ET-Board) 자료실](http://et.ketri.re.kr/board/)에서도 얻을 수 있습니다.
 
-* [이티보드(ET-Board) 아두이노 설정 매뉴얼(pdf)](http://oapass.com/pub/ketri/2021/arduino/F211126_ETboard_Arduino_Manual.pdf)
+* [이티보드(ET-Board) 아두이노 설정 매뉴얼(pdf)](http://oapass.com/pub/ketri/2021/arduino/ETboard_Arduino_Manual.pdf)
 * [이티보드(ET-Board) 핀아웃(pdf))](http://oapass.com/pub/ketri/2021/et/ET-Board_Pinout_v1.0.pdf)
 * 학습자료(pdf, zip) ht<span>tp://</span>oapass.com/pub/ketri/2021/arduino/arduino_for_etboard_level2.1.zip
 * [학습 동영상(youtube)](https://www.youtube.com/watch?v=IhXoGCDPbXQ&list=PL08G-YUOt0DR1iW0CNdplM4wF0sSVwXem&index=1)
@@ -21,7 +21,7 @@
 -->
 
 
-### 이티보드(ET-Board) 채널 안내
+### 이티보드(ETboard) 채널 안내
 
 * [이티보드 스토어팜 (https://smartstore.naver.com/ketri)](https://smartstore.naver.com/ketri)
 * [이티보드 홈페이지 (http://et.ketri.re.kr)](http://et.ketri.re.kr)
