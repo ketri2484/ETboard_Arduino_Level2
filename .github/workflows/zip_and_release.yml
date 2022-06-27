@@ -20,6 +20,6 @@ jobs:
           ls -la           
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "onlySource.zip"
+          artifacts: ${{ github.repository }}_src.zip
           bodyFile: "RELEASE.md"
           token: ${{ secrets.RELEASE_TOKEN }}      
